@@ -45,5 +45,5 @@
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/你的用户名/你的仓库名.git
-   cd 你的仓库名
+   git clone https://github.com/JANZeee/BrotherHai-VS-BlackKingKong.git
+   cd BrotherHai-VS-BlackKingKong
