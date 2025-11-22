@@ -40,7 +40,14 @@
 
 ## 🚀 如何游玩 (How to Play)
 
-### 通过源码运行 (Developers)
+### 方式一：下载 EXE 直接运行 (Windows)
+如果你不想安装 Python 环境，可以直接下载打包好的程序：
+
+1. 点击右侧的 [Releases](https://github.com/JANZeee/BrotherHai-VS-BlackKingKong/releases/tag/new-game) 页面。
+2. 下载 `海哥大战黑金刚.exe`。
+3. 双击即可运行，畅玩游戏！
+
+### 方法二：通过源码运行 (Developers)
 如果你是开发者，想查看源码或进行修改：
 
 1. **克隆仓库**
