@@ -7,7 +7,7 @@
 ![Pygame](https://img.shields.io/badge/Game%20Engine-Pygame-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-![游戏截图](2.png)
+![游戏截图](2.jpg)
 
 
 ## 📖 游戏简介 (Introduction)
