@@ -54,3 +54,11 @@
    ```bash
    git clone https://github.com/JANZeee/BrotherHai-VS-BlackKingKong.git
    cd BrotherHai-VS-BlackKingKong
+
+## 🛠️ 技术栈 (Tech Stack)
+* **语言**: Python 3
+* **引擎**: Pygame (用于图形绘制和窗口管理)
+* **打包**: PyInstaller (用于生成 exe 可执行文件)
+
+## 🤝 贡献 (Contributing)
+如果你有更有趣的点子（比如增加新的技能、新的角色皮肤），欢迎 Fork 本仓库并提交 Pull Request！
