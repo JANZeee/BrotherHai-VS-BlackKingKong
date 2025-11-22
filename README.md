@@ -7,8 +7,8 @@
 ![Pygame](https://img.shields.io/badge/Game%20Engine-Pygame-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-![游戏截图](screenshot.png)
-*(请确保上传一张名为 screenshot.png 的游戏截图到仓库根目录，否则这里无法显示)*
+![游戏截图](2.png)
+
 
 ## 📖 游戏简介 (Introduction)
 
