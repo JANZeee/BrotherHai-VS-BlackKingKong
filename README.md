@@ -46,7 +46,7 @@
 ### 方式一：下载 EXE 直接运行 (Windows)
 如果你不想安装 Python 环境，可以直接下载打包好的程序：
 
-1. 点击右侧的 [Releases](https://github.com/你的用户名/你的仓库名/releases) 页面（需在上传后设置）。
+1. 点击右侧的 [Releases](https://github.com/JANZeee/BrotherHai-VS-BlackKingKong) 页面（需在上传后设置）。
 2. 下载 `海哥大战黑金刚.exe`。
 3. 双击即可运行，畅玩游戏！
 
